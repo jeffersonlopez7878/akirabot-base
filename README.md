@@ -38,7 +38,7 @@ termux-setup-storage
 ```
 
 ```bash
-cd /sdcard && git clone https://github.com/moisesgomezmera1717/Akira-bot-
+cd /sdcard && git clone https://github.com/jeffersonlopez7878/akirabot-base
 ```
 
 ```bash
